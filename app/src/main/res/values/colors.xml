@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="colorPrimary">#424242</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="colorPrimaryDark">#212121</color>
+    <color name="colorAccent">#10CAC9</color>
+
+    <!-- Color for an news  with  science section  -->
+    <color name="science_section">#4A7BA7</color>
+
+    <!-- Color for an news  with  technology section  -->
+    <color name="technologyـsection">#04B4B3</color>
+    <!-- Color for an news  title  -->
+    <color name="textColorTitle">#2B3D4D</color>
+
+</resources>
